@@ -1,4 +1,10 @@
-### Hi there 👋
+## Приветствую в моём профиле github!👋 
+### Меня зовут Андрей, я начинающий Java-программист.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Funfayk082&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Funfayk082/Funfayk082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,15 @@
-# Приветствую в моём профиле github!👋 
+![](https://camo.githubusercontent.com/d9e3fdec3ea977132fc992db53589aef47e4d5436076724322bdc4b8fb7dc8d2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3235362673656374696f6e3d68656164657226746578743d48656c6c6f253230576f726c642126666f6e7453697a653d373526616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d57656c636f6d65253230746f2532306d7925323047697448756225323070726f66696c652125323050757425323073746172732c253230666f726b253230616e64253230636f6e74726962757465212664657363416c69676e593d35312664657363416c69676e3d3632)
+<h1 align="center">Приветствую в моём профиле github!👋 </h1>
+
+<br/>
 
 ## Меня зовут Андрей, я начинающий Java-программист.
 
-Используя различные технологии и средства, я погружаюсь в изучение различных сфер программирования, например создание ***веб-приложений***, ***Android-приложений*** и ***десктоп-приложений***, а также небольших ***скриптов***.
+<br/>
+
+> Используя различные технологии и средства, я погружаюсь в изучение различных сфер программирования, например создание ***веб-приложений***, ***Android-приложений*** и ***десктоп-приложений***, а также небольших ***скриптов***.
+
+<br/>
 
 ## Мои навыки и умения:
 - Знание таких языков программирования, как **Python**, **C#** и ***Java***;
@@ -11,6 +18,8 @@
 - Понимание архитектуры ***REST-запросов***, создание *бэкенда веб-приложения* с использованием REST-API.
 - Создание простых и усложнённых ***SQL-запросов***;
 - Умение создавать скрипты на языке ***Java*** с использованием различных библиотек, например, для **получения *JSON-ответа* по *API*** или **парсинга сайтов** с выводом информации в *таблицы Excel*.
+<br/>
+<br/>
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -22,20 +31,65 @@
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<br/>
+<br/>
 
+<h2 align="center"> Мои проекты:</h2>
 
-## Мои проекты:
 - [Парсер для Авито на языке Java](https://github.com/Funfayk082/Avito-Parse);
 - [Десктоп-приложение для конвертации валют](https://github.com/Funfayk082/CurrencyConverter);
 - [Android-приложение для получения погоды в городе](https://github.com/Funfayk082/android_app);
 - [Декстоп-приложение для ведения учёта персонала и не только на языке C#](https://github.com/Funfayk082/praktika).
 
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Funfayk082" alt="Profile Views">
+</p>
+ 
+<br/>
+
+
+
+<div align="center">
+
 ## Мой топ используемых языков на ГитХаб:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Funfayk082&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 
+---
+
+<details>
+<summary>Мой топ любимых языков</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| SQL       |
+|     3| C#        |
+|     4| Python    |
+</details>
+
+<br/>
+
+---
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Minamin069) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/dbfan/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:funfayk082@gmail.com)
+
+</div>
+
+---
+
+<br/>
+<br/>
+<div align="center">
+  <a href="https://github.com/Funfayk082/leetcode-stats">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=Funfayk082" alt="KnlnKS's LeetCode stats">
+  </a>
+</div>
 
 
 <!--

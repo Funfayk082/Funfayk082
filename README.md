@@ -36,10 +36,11 @@
 
 <h2 align="center"> Мои проекты:</h2>
 
+- [Веб-сервис для поиска работы и работников](https://github.com/Funfayk082/HeadHunter);
 - [Парсер для Авито на языке Java](https://github.com/Funfayk082/Avito-Parse);
 - [Десктоп-приложение для конвертации валют](https://github.com/Funfayk082/CurrencyConverter);
 - [Android-приложение для получения погоды в городе](https://github.com/Funfayk082/android_app);
-- [Декстоп-приложение для ведения учёта персонала и не только на языке C#](https://github.com/Funfayk082/praktika).
+- [Android-приложение для получения погоды в городе (обновлённое/улучшенное)](https://github.com/Funfayk082/WeatherReport).
 
 <br/>
 <br/>
@@ -69,9 +70,8 @@
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
-|     2| SQL       |
-|     3| C#        |
-|     4| Python    |
+|     2| Kotlin    |
+|     3| SQL       |
 </details>
 
 <br/>
